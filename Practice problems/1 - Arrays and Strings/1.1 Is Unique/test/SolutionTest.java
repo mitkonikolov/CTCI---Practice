@@ -62,4 +62,11 @@ public class SolutionTest {
 
         Assert.assertEquals(false, s.solution("1qwertyœ∑´†¥¨ˆπ“‘æ…¬˚∆˙œ"));
     }
+
+    @Test
+    public void testNonUniqueCapital() {
+        Solution s = new Solution();
+
+        Assert.assertEquals(false, s.solution("kjiocbmahJ"));
+    }
 }
