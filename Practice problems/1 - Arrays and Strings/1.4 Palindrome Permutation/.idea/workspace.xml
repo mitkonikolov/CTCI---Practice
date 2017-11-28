@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b74bb46-36d3-42d7-89a9-558b7dddbe87" name="Default" comment="" />
-    <ignored path="1.3 URLify.iws" />
+    <list default="true" id="d00fb5e0-43d4-4aa9-a6c0-d9b92f41d17f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/SolutionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1.3 URLify/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../1.3 URLify/.idea/workspace.xml" />
+    </list>
+    <ignored path="1.4 Palindrome Permutation.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -19,15 +22,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="1.3 URLify" />
+    <favorites_list name="1.4 Palindrome Permutation" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60402685">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.26845637">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -37,11 +40,11 @@
         <entry file="file://$PROJECT_DIR$/test/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+              <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,6 +58,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -79,7 +85,7 @@
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -104,34 +110,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -141,11 +144,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="1.3 URLify" />
+              <option name="myItemId" value="1.4 Palindrome Permutation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -155,6 +158,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,20 +168,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="JUnit.SolutionTest">
-    <configuration default="false" name="SolutionTest.testURLify" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SolutionTest.testPalPermEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="1.3 URLify" />
+      <module name="1.4 Palindrome Permutation" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="testURLify" />
+      <option name="METHOD_NAME" value="testPalPermEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -189,14 +195,56 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="SolutionTest.testURLify2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SolutionTest.testPalPermSingleLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="1.3 URLify" />
+      <module name="1.4 Palindrome Permutation" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolutionTest" />
-      <option name="METHOD_NAME" value="testURLify2" />
+      <option name="METHOD_NAME" value="testPalPermSingleLetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SolutionTest.testPalPermNoEven" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="1.4 Palindrome Permutation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="testPalPermNoEven" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="SolutionTest.testPalPermNoOddButTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="1.4 Palindrome Permutation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolutionTest" />
+      <option name="METHOD_NAME" value="testPalPermNoOddButTrue" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -212,7 +260,7 @@
     </configuration>
     <configuration default="false" name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="1.3 URLify" />
+      <module name="1.4 Palindrome Permutation" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
@@ -547,7 +595,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="1.3 URLify" />
+      <module name="1.4 Palindrome Permutation" />
       <envs />
       <method />
     </configuration>
@@ -661,77 +709,81 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest.testURLify" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest.testURLify2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermEmpty" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermSingleLetter" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermNoEven" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermNoOddButTrue" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest.testURLify2" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest.testURLify" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermEmpty" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermNoOddButTrue" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermNoEven" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest.testPalPermSingleLetter" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b74bb46-36d3-42d7-89a9-558b7dddbe87" name="Default" comment="" />
-      <created>1511672282089</created>
+      <changelist id="d00fb5e0-43d4-4aa9-a6c0-d9b92f41d17f" name="Default" comment="" />
+      <created>1511742317546</created>
       <option name="number" value="Default" />
-      <updated>1511672282089</updated>
-      <workItem from="1511672287773" duration="2736000" />
+      <updated>1511742317546</updated>
+      <workItem from="1511742320069" duration="3218000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolutionTest - 2017.11.26 at 00h 34m 23s.xml">
+    <history-entry file="SolutionTest - 2017.11.26 at 19h 52m 48s.xml">
       <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify - 2017.11.26 at 00h 27m 24s.xml">
-      <configuration name="SolutionTest.testURLify" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2017.11.26 at 19h 55m 33s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 23m 11s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest - 2017.11.26 at 20h 03m 56s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 23m 16s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermEmpty - 2017.11.26 at 19h 56m 11s.xml">
+      <configuration name="SolutionTest.testPalPermEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 23m 22s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermEmpty - 2017.11.26 at 19h 57m 46s.xml">
+      <configuration name="SolutionTest.testPalPermEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 23m 39s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermNoEven - 2017.11.26 at 19h 45m 24s.xml">
+      <configuration name="SolutionTest.testPalPermNoEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 26m 33s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermNoEven - 2017.11.26 at 19h 45m 39s.xml">
+      <configuration name="SolutionTest.testPalPermNoEven" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 26m 42s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermNoOddButTrue - 2017.11.26 at 19h 52m 14s.xml">
+      <configuration name="SolutionTest.testPalPermNoOddButTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 27m 15s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermNoOddButTrue - 2017.11.26 at 19h 52m 41s.xml">
+      <configuration name="SolutionTest.testPalPermNoOddButTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest_testURLify2 - 2017.11.26 at 00h 27m 28s.xml">
-      <configuration name="SolutionTest.testURLify2" configurationId="JUnit" />
+    <history-entry file="SolutionTest_testPalPermSingleLetter - 2017.11.26 at 19h 43m 56s.xml">
+      <configuration name="SolutionTest.testPalPermSingleLetter" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2736000" />
+    <option name="totallyTimeSpent" value="3218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -764,19 +816,19 @@
     <entry file="file://$PROJECT_DIR$/test/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60402685">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.26845637">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -810,7 +862,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>com.bluecatcode.junit:junit-4.12-extended:1.1.0</last-edited>
+          <last-edited>com.bluecatcode.junit:junit-4.12-extended:1.1.01</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -834,7 +886,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>1.3 URLify</last-edited>
+          <last-edited>1.4 Palindrome Permutation</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
